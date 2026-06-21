@@ -21,12 +21,12 @@
 
 ## Classificação dos Subdomínios
 | Subdomínio | Tipo | Justificativa |
-|------------|------|---------------|
-| Usuários |	Principal	| Núcleo do sistema, gerencia contas e planos de assinatura. |
-| Transações |	Principal |	Essencial para autorizar compras e aplicar regras antifraude. |
-| Músicas |	Principal	| Base da experiência do usuário, envolve cadastro e favoritos. |
-| Playlists |	Principal	| Diferencial competitivo, organiza músicas e personaliza experiência. |
-| Pagamentos |	Genérico |	Necessário para todas as transações, mas não é diferencial competitivo. |
+| --- | --- | --- |
+| Usuários | Principal | Núcleo do sistema, gerencia contas e planos de assinatura. |
+| Transações | Principal | Essencial para autorizar compras e aplicar regras antifraude. |
+| Músicas | Principal | Base da experiência do usuário, envolve cadastro e favoritos. |
+| Playlists | Principal | Diferencial competitivo, organiza músicas e personaliza experiência. |
+| Pagamentos | Genérico | Necessário para todas as transações, mas não é diferencial competitivo. |
 
 ---
 
